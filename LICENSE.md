@@ -1,5 +1,4 @@
-No form of copyrights nor warranty nor guaranties are associated with the contents of
-the public repository: https://github.com/samkhan13/REP
+The contents of the public repository: https://github.com/samkhan13/REP are hereby made
+available as per CC0: http://creativecommons.org/publicdomain/zero/1.0/
 
-As such, the contents of the above mentioned public repository can be used by anyone in
-an unrestricted manner.   
+   
